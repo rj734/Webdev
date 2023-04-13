@@ -1,0 +1,70 @@
+.header-box {
+    font-size: 20px;
+    margin: 0px 30px;
+    padding: 10px;
+    background-color: black;
+    color: gray;
+    display: flex;
+    border-radius: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pizzeria{
+    font-size: 30px;
+    margin-left: 20px;
+    position: relative;
+    top: 7px;
+    color: gray;
+}
+.img-pizzeria{
+    height: 50px;
+    width: 50px;
+    margin-left: 25px;
+}
+.header-nav-text, .name-css, .header-nav-user, .btn-shop{
+    position: relative;
+}
+.header-nav-text{
+    margin-left: 20px;
+    color: gray;
+    top: 5px;
+}
+.header-nav-name{
+    font-size: 25px;
+    font-weight: bold;
+    color:rgba(38, 120, 158, 0.993);
+    float: right;
+    padding: 10px;
+    border-radius: 3px;
+}
+.header-nav-user{
+    margin-left: 15px;
+} 
+.header-nav-user, .btn-shop{
+    font-size: 20px;
+    font-weight: bold;
+    color: beige;
+    background-color: rgba(38, 158, 122, 0.993);
+    padding: 10px;
+    border-radius: 3px;
+    top: 12px;
+}
+
+.btn-shop{
+    color: white;
+    background-color: orange;
+    width: 200px;
+    margin-left: 20px;
+}
+.btn-shop__badge{
+    font-size: 20px;
+    position: absolute;
+    top: -7px;
+    justify-content: center;
+    display: inline-flex;
+    margin-left: -10px;
+    color: beige;
+    background: rgba(38, 120, 158, 0.993);
+    border-radius: 50px;
+    width: 28px;
+}
+

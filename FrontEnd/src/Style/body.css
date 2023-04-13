@@ -1,0 +1,37 @@
+.head1{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img{
+    height:300px;
+    width:500px;
+    background-size: cover;
+}.text1{
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.text2{
+
+    display:flex;
+    width: 100%;
+    flex-wrap:wrap;
+    justify-content: center;
+    align-items: center;
+}
+.text2-left{
+    width: 40%;
+}
+.text2-right{
+    width:50%;
+    margin-left: 30px;
+}
+.I-text{
+    margin-right: 10px;
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img2{
+    width:40%;
+}
